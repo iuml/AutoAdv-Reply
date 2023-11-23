@@ -1,0 +1,9 @@
+
+
+{
+    "token": "",
+    "channelid": "",
+    "reply": "This is the reply to dms",
+    "wait-time": PUT UR WAIT TIME HERE IN MILLISECONDS, 
+    "initialmsg" : "Message to send in channel"
+}
